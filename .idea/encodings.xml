@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/za/ac/cput/rcarstens/model/ContractResource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/za/ac/cput/rcarstens/model/DetailsCheckResource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/za/ac/cput/rcarstens/model/IdentificationCheckResource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/za/ac/cput/rcarstens/model/RecruitResource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/za/ac/cput/rcarstens/model/RegistrationEntryResource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/za/ac/cput/rcarstens/model/RegistryManagerResource.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/za/ac/cput/rcarstens/repository" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/za/ac/cput/rcarstens/services" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/za/ac/cput/rcarstens/services/Services.java" charset="UTF-8" />
+  </component>
+</project>
